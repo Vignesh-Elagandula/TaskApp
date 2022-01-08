@@ -33,8 +33,19 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="293dp"
         android:layout_marginTop="637dp"
+        android:elevation="50dp"
         android:layout_marginBottom="-648dp"
         android:src="@drawable/ic_baseline_add_circle_24" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:layout_below="@id/appBarLayout">
+
+
+    </androidx.recyclerview.widget.RecyclerView>
 
 
 </RelativeLayout>
