@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please login to continue using app</string>
+    <string name="email">Email</string>
+
+    <string name="don_t_have_a_account">Don\'t have a account</string>
+    <string name="stay_connected">Stay connected</string>
+    <string name="enter_your_email_address_and_password_to_access_your_account">Enter your Email address and Password to access your account</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account Login</string>
+    <string name="oner_organization">Oner/Organization</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
